@@ -299,7 +299,10 @@ figure {
 img,
 svg {
   vertical-align: middle;
-  max-height: 65%;
+  max-height: 45%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
 
 table {
